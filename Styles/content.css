@@ -1,0 +1,55 @@
+﻿.pageBody
+{
+    
+    width:100%;
+    max-width:700px;
+    margin:auto;
+    padding:20px;    
+    font-family:Cooper Black; 
+    
+    
+}
+.pageFooter
+{
+    position:relative;
+    bottom:0px;
+    padding:0;
+    padding-top:40px;
+    margin-bottom:0px;
+}
+.pageContent
+{
+    width:100%;
+}
+.pageBackground
+{
+    position:absolute;
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+    z-index:-1;
+    background-color:White; 
+    filter:alpha(opacity=30);
+    opacity:0.3;
+}
+
+.centered
+{
+    vertical-align:middle;
+    text-align:center;
+}
+
+.partnersTable th
+{
+    font-size:125%; 
+    /*text-shadow:20px 12px 2px #fff;*/
+}
+a:link,
+a:visited,
+a:active
+{
+    /* Add Color */
+    color:#3E3E76;
+    text-decoration:none;
+}

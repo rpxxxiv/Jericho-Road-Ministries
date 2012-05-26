@@ -1,0 +1,5 @@
+D:\Projects\JRM-TC\JRM-TC\bin\JRM-TC.dll
+D:\Projects\JRM-TC\JRM-TC\bin\JRM-TC.pdb
+D:\Projects\JRM-TC\JRM-TC\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\JRM-TC\JRM-TC\obj\Debug\JRM-TC.dll
+D:\Projects\JRM-TC\JRM-TC\obj\Debug\JRM-TC.pdb
