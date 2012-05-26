@@ -3,3 +3,8 @@ D:\Projects\JRM-TC\JRM-TC\bin\JRM-TC.pdb
 D:\Projects\JRM-TC\JRM-TC\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\JRM-TC\JRM-TC\obj\Debug\JRM-TC.dll
 D:\Projects\JRM-TC\JRM-TC\obj\Debug\JRM-TC.pdb
+D:\Projects\JRMTCGit\bin\JRM-TC.dll
+D:\Projects\JRMTCGit\bin\JRM-TC.pdb
+D:\Projects\JRMTCGit\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\JRMTCGit\obj\Debug\JRM-TC.dll
+D:\Projects\JRMTCGit\obj\Debug\JRM-TC.pdb
