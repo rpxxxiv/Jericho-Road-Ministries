@@ -23,7 +23,7 @@ function LoadAgenda() {
 //        data.ctz = ctz = ctz.replace(' ', '_');
 //    }
     $.ajax({
-        url: 'http://www.google.com/calendar/feeds/jerichoroadtc@gmail.com/public/full?alt=json-in-script&callback=?',
+        url: 'http://www.google.com/calendar/feeds/rpxxxiv@gmail.com/public/full?alt=json-in-script&callback=?',
         dataType: 'jsonp',
         data: data,
         startParam: false,

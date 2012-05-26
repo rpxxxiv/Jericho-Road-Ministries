@@ -44,7 +44,7 @@
         var data = $.extend({}, sourceOptions.data || {}, {
 //            'start-min': formatDate(start, 'u'),
 //            'start-max': formatDate(end, 'u'),
-            'singleevents': false,
+            'singleevents': true,
             'max-results': 9999
         });
 
