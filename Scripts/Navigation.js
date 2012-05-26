@@ -16,7 +16,9 @@ function MapLinkEvent(btn, iframe) {
     //link = link.substring(link.indexOf('#'));
     //$(btn).attr('href')
     var a = link;
-    var isOutOfDomain = link.toString().search("http://");
+    var expr = /http:|mailto:/;
+    var isOutOfDomain = link.toString().search(expr);
+    
     var inDomain = link.toString().search("Pages/");
     if (isOutOfDomain && inDomain) {
         a = NavUriMapper(link.replace('#', '').replace('.html', ''));
