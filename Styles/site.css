@@ -39,10 +39,10 @@ h1
 #navigation
 {
     position:fixed;
-    width:70%;
-    left:50%;
+    width:80%;
+    left:5%;
     top:20%;
-    margin-left:-35%;
+    
     border-top-style:double;
     background-color:White;
     border-top-color:#3E3E76;
@@ -136,9 +136,8 @@ h1
     margin:auto;
     padding:0;
     left:5%;
-    right:5%;
     top:20%;
-    width:70%;
+    width:80%;
     height:100%;
     position:absolute;
     display:block;
@@ -155,4 +154,47 @@ h1
     filter:alpha(opacity=30);
     opacity:0.3;   
     position:fixed;
+}
+
+.SideBar
+{
+     width:15%;
+     height:100%;
+     background-color:#3E3E76;
+     right:0%;
+     top:20%;
+     position:fixed;
+     z-index:1;
+     color:White;  
+}
+.SideBarNav
+{
+    padding:10px;
+}
+.SideBarNav span
+{
+    border-bottom:1px solid white;   
+    
+    
+}
+.SideBarNav ul
+{
+    margin:0;
+    padding:0; 
+    padding-top:10px;
+    margin-left:5px;   
+    list-style-type:none;
+    list-style:none;
+    text-align:left;
+    font-size:80%;
+}
+.SideBarNav ul li
+{
+    
+    margin:0;
+    padding:0;   
+}
+.SideBarNav ul li a
+{   
+    color:White;
 }
