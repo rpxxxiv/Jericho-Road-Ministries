@@ -70,6 +70,7 @@
     <None Include="Images\JRM-TCBanner.png.bkup" />
     <Content Include="Images\JRM-TCBanner.png" />
     <Content Include="Images\JRMLogo.gif" />
+    <Content Include="Images\pagebreak.png" />
     <Content Include="Images\shopping1S.jpg" />
     <Content Include="Images\SpringClothing1.jpg" />
     <Content Include="Images\woman1.jpg" />
