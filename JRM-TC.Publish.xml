@@ -1,61 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <publishData>
   <publishProfile publishUrl="ftp://184.168.249.1/JRMTest" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="baristakid" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADXXMZm6vskaK1/k/xeAxXQAAAAACAAAAAAAQZgAAAAEAACAAAADCbJBlbF8Q85j85IKJ/w4ERivo2wso6p6YIyeqHnKXaAAAAAAOgAAAAAIAACAAAAD50dC7EANX0RccdSlR3IbZoxnq91CW9C9bm91stPAndSAAAAAKlkPzuLV8y0qU7LlgI3jbGzfugfv0yypOJcw7kgI/KUAAAABhrY1aMV6Hfh0Jn+ESdn0VXTZZJVJ9y46iIB7LmnkBOkN6vRd8GeWFFSipfZADZe1RWqsGAUpM198v/ITE30oz" SelectedForPublish="True">
+    <file relUrl="Images/ADNW PIC.jpg" publishTime="04/03/2012 20:01:33" />
     <file relUrl="Pages/Donate.html" publishTime="05/26/2012 19:22:44" />
     <file relUrl="Images/child2.jpg" publishTime="04/16/2012 15:14:59" />
     <file relUrl="Styles/Agenda.css" publishTime="05/26/2012 19:01:45" />
-    <file relUrl="Default.html" publishTime="05/26/2012 19:54:58" />
+    <file relUrl="Scripts/Navigation.js" publishTime="05/27/2012 15:05:00" />
+    <file relUrl="Default.html" publishTime="05/27/2012 15:10:03" />
     <file relUrl="Images/gifts1S.jpg" publishTime="04/16/2012 15:14:59" />
     <file relUrl="Pages/Contact.html" publishTime="05/26/2012 19:22:44" />
     <file relUrl="Styles/site.css" publishTime="05/26/2012 19:21:09" />
     <file relUrl="Scripts/jquery.tmpl.min.js" publishTime="05/05/2012 15:09:49" />
-    <file relUrl="bin/JRM-TC.dll" publishTime="05/26/2012 16:22:06" />
-    <file relUrl="Images/WomenGiftsS.jpg" publishTime="04/16/2012 15:15:00" />
+    <file relUrl="Images/JRMLogo.gif" publishTime="04/16/2012 15:14:59" />
+    <file relUrl="bin/JRM-TC.dll" publishTime="05/27/2012 15:47:30" />
     <file relUrl="Images/pagebreak.png" publishTime="05/26/2012 16:21:30" />
     <file relUrl="Pages/BecomeAPartner.html" publishTime="05/26/2012 19:22:44" />
-    <file relUrl="Styles/content.css" publishTime="05/26/2012 15:37:15" />
     <file relUrl="Pages/Events.html" publishTime="05/26/2012 19:22:44" />
+    <file relUrl="Documents/PREPARING FOR YOUR APPOINTMENT.doc" publishTime="05/27/2012 15:08:18" />
     <file relUrl="Scripts/jquery-1.7.1.min.js" publishTime="04/05/2012 15:08:01" />
     <file relUrl="Images/AMYSS.jpg" publishTime="05/26/2012 14:30:03" />
+    <file relUrl="Pages/Updates.html" publishTime="05/26/2012 19:22:44" />
+    <file relUrl="Pages/LegalFooter.html" publishTime="04/16/2012 15:14:41" />
     <file relUrl="Images/gifts3S.jpg" publishTime="04/16/2012 15:14:59" />
-    <file relUrl="Pages/AboutUs.html" publishTime="05/26/2012 19:22:44" />
-    <file relUrl="Images/shopping1S.jpg" publishTime="04/16/2012 15:15:00" />
     <file relUrl="Images/WomenGifts2S.jpg" publishTime="04/16/2012 15:15:00" />
+    <file relUrl="Documents/501.c.3 final ruling.pdf" publishTime="05/27/2012 15:08:18" />
     <file relUrl="Images/handsS.jpg" publishTime="04/16/2012 15:14:59" />
     <file relUrl="Pages/Home.html" publishTime="05/26/2012 19:22:44" />
     <file relUrl="Images/amyhelpingS.jpg" publishTime="04/16/2012 15:14:58" />
-    <file relUrl="Pages/Partners.html" publishTime="05/26/2012 19:22:44" />
-    <file relUrl="bin/JRM-TC.pdb" publishTime="05/26/2012 16:22:06" />
-    <file relUrl="Scripts/FullCalendar/xgcal.js" publishTime="05/15/2012 23:40:06" />
-    <file relUrl="Styles/Calendar/fullcalendar.print.css" publishTime="05/05/2012 11:53:20" />
+    <file relUrl="Pages/Partners.html" publishTime="05/27/2012 15:08:18" />
+    <file relUrl="bin/JRM-TC.pdb" publishTime="05/27/2012 15:47:30" />
     <file relUrl="Pages/Needs.html" publishTime="05/26/2012 19:22:44" />
+    <file relUrl="Styles/Calendar/fullcalendar.print.css" publishTime="05/05/2012 11:53:20" />
+    <file relUrl="Documents/501.c.3 advance ruling.pdf" publishTime="05/27/2012 15:08:18" />
+    <file relUrl="Scripts/FullCalendar/xgcal.js" publishTime="05/15/2012 23:40:06" />
     <file relUrl="Scripts/FullCalendar/fullcalendar.js" publishTime="05/08/2012 16:54:50" />
     <file relUrl="Images/JRM-TCBanner.png" publishTime="05/26/2012 16:52:46" />
-    <file relUrl="Images/ADNW PIC.jpg" publishTime="04/03/2012 20:01:33" />
+    <file relUrl="Images/shopping1S.jpg" publishTime="04/16/2012 15:15:00" />
     <file relUrl="Scripts/jquery-ui-1.8.17.custom.min.js" publishTime="04/27/2012 20:16:10" />
-    <file relUrl="Images/bibleS.jpg" publishTime="04/16/2012 15:14:59" />
+    <file relUrl="Documents/Newsletter 5-12.doc" publishTime="05/27/2012 15:08:18" />
     <file relUrl="Scripts/FullCalendar/fullcalendar.min.js" publishTime="04/27/2012 20:16:10" />
     <file relUrl="Scripts/FullCalendar/Agenda.js" publishTime="05/26/2012 19:48:50" />
+    <file relUrl="Images/JRM-TCBackground.png" publishTime="04/04/2012 18:12:17" />
     <file relUrl="Scripts/content.js" publishTime="04/18/2012 21:19:30" />
     <file relUrl="Pages/Media.html" publishTime="05/26/2012 19:22:44" />
     <file relUrl="Images/ADNWLogo.jpeg" publishTime="04/16/2012 15:14:58" />
     <file relUrl="Scripts/SiteShell.js" publishTime="04/18/2012 21:13:10" />
     <file relUrl="Images/gifts2s.jpg" publishTime="04/16/2012 15:14:59" />
     <file relUrl="Scripts/FullCalendar/gcal.js" publishTime="05/25/2012 15:06:12" />
-    <file relUrl="Pages/Updates.html" publishTime="05/26/2012 19:22:44" />
+    <file relUrl="Pages/AboutUs.html" publishTime="05/26/2012 19:22:44" />
     <file relUrl="Pages/Services.html" publishTime="05/26/2012 19:22:44" />
-    <file relUrl="Web.config" publishTime="05/26/2012 19:47:26" />
+    <file relUrl="Web.config" publishTime="05/27/2012 15:16:23" />
     <file relUrl="Images/BridgeKits.jpg" publishTime="04/16/2012 15:14:59" />
     <file relUrl="Images/woman1.jpg" publishTime="04/16/2012 15:15:00" />
     <file relUrl="Images/SpringClothing1.jpg" publishTime="04/16/2012 15:15:00" />
     <file relUrl="Images/Border ribbon.png" publishTime="04/04/2012 18:12:17" />
     <file relUrl="Images/family1.jpg" publishTime="04/16/2012 15:14:59" />
-    <file relUrl="Pages/LegalFooter.html" publishTime="04/16/2012 15:14:41" />
+    <file relUrl="Styles/content.css" publishTime="05/26/2012 15:37:15" />
     <file relUrl="Images/FamgiftsS.jpg" publishTime="04/16/2012 15:14:59" />
-    <file relUrl="Styles/Calendar/fullcalendar.css" publishTime="05/26/2012 14:49:37" />
-    <file relUrl="Scripts/Navigation.js" publishTime="05/26/2012 14:37:53" />
-    <file relUrl="Images/JRMLogo.gif" publishTime="04/16/2012 15:14:59" />
+    <file relUrl="Images/bibleS.jpg" publishTime="04/16/2012 15:14:59" />
+    <file relUrl="Images/WomenGiftsS.jpg" publishTime="04/16/2012 15:15:00" />
     <file relUrl="Pages/SelfHelp.html" publishTime="05/26/2012 19:22:44" />
-    <file relUrl="Images/JRM-TCBackground.png" publishTime="04/04/2012 18:12:17" />
+    <file relUrl="Styles/Calendar/fullcalendar.css" publishTime="05/26/2012 14:49:37" />
   </publishProfile>
 </publishData>

@@ -67,10 +67,10 @@
     <Content Include="Images\gifts3S.jpg" />
     <Content Include="Images\handsS.jpg" />
     <Content Include="Images\JRM-TCBackground.png" />
-    <None Include="Documents\501.c.3 advance ruling.pdf" />
-    <None Include="Documents\501.c.3 final ruling.pdf" />
-    <None Include="Documents\Newsletter 5-12.doc" />
-    <None Include="Documents\PREPARING FOR YOUR APPOINTMENT.doc" />
+    <Content Include="Documents\501.c.3 advance ruling.pdf" />
+    <Content Include="Documents\501.c.3 final ruling.pdf" />
+    <Content Include="Documents\Newsletter 5-12.doc" />
+    <Content Include="Documents\PREPARING FOR YOUR APPOINTMENT.doc" />
     <None Include="Images\JRM-TCBanner.png.bkup" />
     <Content Include="Images\JRM-TCBanner.png" />
     <Content Include="Images\JRMLogo.gif" />
