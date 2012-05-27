@@ -4,8 +4,11 @@
     <title></title>
     <link type="text/css" href="Styles/site.css" rel="stylesheet" />    
     <script src="Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../Scripts/jquery.tmpl.min.js"></script>
     <script src="Scripts/SiteShell.js" type="text/javascript"></script>
     <script src="Scripts/Navigation.js" type="text/javascript"></script>
+     <script type="text/javascript" src="../Scripts/FullCalendar/fullcalendar.js"></script>
+    <script src="Scripts/FullCalendar/Agenda.js" type="text/javascript"></script>
     <script type="text/javascript">
         $(window).ready(function () {
             NavMenuLoad($('#navigation li'));
@@ -17,11 +20,19 @@
                     $(this).animate({ opacity: 1.0 }, toggleSpeed);
                 })
             $('#frm1').attr('src', "Pages/Home.html");
+            maxResults = 2;
+            LoadAgenda();
         });      
     </script>
 </head>
 <body>
-
+<script id="Event" type="text/x-jquery-tmpl">
+    <div class="EventItem" data-url="${url}">
+        <p><span class="EventTitle">${title}</span></p>
+        <p><span class="EventDateTime">${EventDate}</span></p>
+        <p><span class="EventDateTime">${Time}</span></p>
+    </div>
+</script>
 <div class="Banner">
     <div class="BannerLeft">
         <img src="Images/JRMLogo.gif" style="width:100%;height:100%;padding:20px;" />
@@ -74,7 +85,7 @@
 <div class="frmBackground"></div>
 <iframe id="frm1" name="frm1"  seamless="seamless" scrolling="no" ></iframe>
 <div class="SideBar" style="">
-<div class="SideBarNav">
+<div id="sbFormsAndDocuments" class="SideBarNav">
     <span class="SideBarNavHeader">Forms and Documents</span>
     <ul class="SideBarNav">
         <li><a href="#">Partner Signup Form</a></li>
@@ -84,8 +95,20 @@
         <li><a href="#">Non-Profit Status</a></li>
     </ul>
 </div>
-<div>
-
+<div id="sbExternalLinks" class="SideBarNav">
+    <span class="SideBarNavHeader">External Links</span>
+    <ul class="SideBarNav">
+        <li><a href="http://www.4people.org">4People</a></li>
+        <li><a href="http://www.manpower.com">ManPower</a></li>
+        <li><a href="http://www.tcugm.org">Tri-Cities Union Gospel Mission</a></li>
+        <li><a href="http://www.bfcac.org">Benton Franklin Community Action Committee</a></li>
+    </ul>
+</div>
+<div id="sbUpcomingEvents" class="SideBarNav">
+    <span class="SideBarNavHeader">Upcoming Events</span>
+        <div id="agenda">
+            <div id="Events"></div>
+        </div> 
 </div>
 </div>
 </body>

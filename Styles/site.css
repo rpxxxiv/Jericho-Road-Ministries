@@ -182,7 +182,7 @@ h1
 }
 .SideBarNav span
 {
-    border-bottom:1px solid white;   
+    font-weight:600;  
     
     
 }
@@ -206,4 +206,51 @@ h1
 .SideBarNav ul li a
 {   
     color:White;
+}
+
+
+/*  Agenda Short */
+#agenda
+{
+    position:relative;
+    width:100%;   
+    margin-bottom:0%;
+}
+#Events
+{
+    padding:10px;
+    margin-right:0%;
+    max-height:150px;
+    overflow:hidden;
+    overflow-x:hidden;
+
+}
+.EventItem
+{
+    padding-left:5px;
+    max-height:75px;
+    padding-bottom:2px;
+    border-bottom:1px solid white;
+}
+#Events > :last-child
+{
+    border:none;   
+}
+.EventItem p
+{
+    margin:0;
+    
+}
+.EventItem:hover
+{    
+    background-color:rgba(62,62,118,0.3);   
+}
+.EventTitle
+{
+   font-weight:bold;
+   font-size:80%; 
+}
+.EventDateTime
+{
+    font-size:80%;   
 }
