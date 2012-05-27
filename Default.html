@@ -17,20 +17,27 @@
                     $(this).animate({ opacity: 1.0 }, toggleSpeed);
                 })
             $('#frm1').attr('src', "Pages/Home.html");
-        });
-
-
-      
+        });      
     </script>
 </head>
 <body>
 
 <div class="Banner">
-    <img src="Images/JRMLogo.gif" style="position:absolute;top:0px;left:0px;width:12%;" />
-    <div style="position:absolute;top:0px;right:0px;width:12%;">
-    
+    <div class="BannerLeft">
+        <img src="Images/JRMLogo.gif" style="width:100%;height:100%;padding:20px;" />
+    </div>    
+    <div class="BannerImg">
+        <img src="Images/JRM-TCBanner.png" style="width:100%;height:100%;" />
     </div>
-    <img src="Images/JRM-TCBanner.png" />
+    <div style="position:absolute;top:20px;right:10px;width:10%;margin-right:20px;font-size:80%;color:#3E3E76;">
+        <p style="text-align:center;">
+        2500 Jericho Road
+        Richland, WA  99352
+        509-627-0750
+        <a href="mailto:amy@richlandnaz.org">amy@richlandnaz.org</a> 
+        </p>
+    </div>
+    
     <div id="navigation">
         <ul>
             <li><a href="Pages/Home.html" target="frm1">Home</a>
