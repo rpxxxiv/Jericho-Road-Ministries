@@ -3,6 +3,12 @@ var formatDate = fc.formatDate;
 var parseISO8601 = fc.parseISO8601;
 var addDays = fc.addDays;
 var applyAll = fc.applyAll;
+var orderBy = 'starttime';
+var singleEvents = true;
+var futureEvents = true;
+var sortOrder = 'ascending';
+var maxResults = 9999;
+
 
 function LoadAgenda() {
 
@@ -11,11 +17,11 @@ function LoadAgenda() {
     var data = $.extend({}, {}, {
 //        'start-min': formatDate(start, 'u'),
 //        'start-max': formatDate(end, 'u'),
-        'singleevents': true,
-        'futureevents': true,
-        'orderby': 'starttime',
-        'sortorder':'ascending',
-        'max-results': 9999
+        'singleevents': singleEvents,
+        'futureevents': futureEvents,
+        'orderby': orderBy,
+        'sortorder':sortOrder,
+        'max-results': maxResults
     });
 
 //    var ctz = sourceOptions.currentTimezone;
@@ -23,7 +29,7 @@ function LoadAgenda() {
 //        data.ctz = ctz = ctz.replace(' ', '_');
 //    }
     $.ajax({
-        url: 'http://www.google.com/calendar/feeds/rpxxxiv@gmail.com/public/full?alt=json-in-script&callback=?',
+        url: 'http://www.google.com/calendar/feeds/jerichoroadtc@gmail.com/public/full?alt=json-in-script&callback=?',
         dataType: 'jsonp',
         data: data,
         startParam: false,
