@@ -1,0 +1,40 @@
+﻿body {
+}
+#agenda
+{
+    position:relative;
+    margin-left:20px;
+    width:100%;   
+    margin-bottom:0%;
+}
+#Events
+{
+    padding-left:5px;
+    margin-right:0%;
+    max-height:400px;
+    overflow:scroll;
+    overflow-x:hidden;
+
+}
+.EventItem
+{
+    
+    padding-top:2px;
+    padding-left:5px;
+    line-height:100%;
+}
+.EventItem:hover
+{
+    
+    background-color:rgba(62,62,118,0.3);   
+}
+.EventTitle
+{
+   font-weight:bold;
+   font-size:1.25em; 
+}
+
+.EventDateTime
+{
+    
+}
