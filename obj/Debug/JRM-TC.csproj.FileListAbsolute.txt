@@ -8,3 +8,8 @@ D:\Projects\JRMTCGit\bin\JRM-TC.pdb
 D:\Projects\JRMTCGit\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\JRMTCGit\obj\Debug\JRM-TC.dll
 D:\Projects\JRMTCGit\obj\Debug\JRM-TC.pdb
+D:\Projects\Jericho-Road-Ministries\bin\JRM-TC.dll
+D:\Projects\Jericho-Road-Ministries\bin\JRM-TC.pdb
+D:\Projects\Jericho-Road-Ministries\obj\Debug\JRM-TC.csprojResolveAssemblyReference.cache
+D:\Projects\Jericho-Road-Ministries\obj\Debug\JRM-TC.dll
+D:\Projects\Jericho-Road-Ministries\obj\Debug\JRM-TC.pdb
